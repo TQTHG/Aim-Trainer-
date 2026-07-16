@@ -3,7 +3,7 @@ A simple aim trainer made with Python and Pygame
 Features
 + Difficulty
 + FPS selection
-+ +Timer
++ Time selection
 + Accuracy
 + Average Reaction time
 + Miss click count
